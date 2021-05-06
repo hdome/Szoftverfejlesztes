@@ -30,4 +30,6 @@ public enum Moves {
         }
         throw new IllegalArgumentException();
     }
+
+
 }
