@@ -1,0 +1,16 @@
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/game/controller/GameController.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/game/Main.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/rules/Moves.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/util/jpa/package-info.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/game/Controller.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/game/controller/CloseWindowController.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/game/controller/LaunchController.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/rules/Piece.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/table/Tile.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/game/controller/SavedGamesController.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/util/guice/JpaInitializer.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/game/controller/PlayersNameController.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/rules/Statement.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/game/controller/EndWindowController.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/util/guice/PersistenceModule.java
+/Users/bernathroni/IdeaProjects/SEHF/src/main/java/util/jpa/GenericJpaDao.java

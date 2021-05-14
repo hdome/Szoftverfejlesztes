@@ -8,9 +8,8 @@ import lombok.extern.slf4j.Slf4j;
 import java.util.ArrayList;
 import java.util.List;
 
-
-@Data
 @Slf4j
+@Data
 public class Statement {
 
     public static final int[][] START = {
